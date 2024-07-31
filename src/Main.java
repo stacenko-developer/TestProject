@@ -4,6 +4,6 @@ public class Main {
     }
 
     public void print() {
-
+        System.out.println("234");
     }
 }
